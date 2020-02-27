@@ -1,0 +1,83 @@
+body{
+    font-family: 'poppins';
+}
+.bg{
+    background-image: url("/images/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-item p{
+    padding-right: 90px;
+    color: grey;
+    margin: 16px 0px 10px;
+    font-size: 16px;
+}
+.carousel-indicators li{
+     
+    background-color: yellow;
+}
+.buy-now-button{
+    background-color:black;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;}
+.see-all{
+    color: rgb(255, 125, 4);
+}
+.card h5{
+    font-weight: 800;
+}
+.card p{
+    font-size: 14px;
+    color: gray;
+}
+.card{
+    padding: 30px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px rgba(102, 83, 83, 0.082);
+}
+.container{
+    margin-bottom: 70px;
+}
+hr{
+    border: 0;
+    width: 100px;
+    height: 5px;
+    background: rgb(240, 144, 18);
+}
+.categories h3{
+    text-align: center;
+}
+.cat4 img{
+    width: 100%;
+}
+.cat1,.cat2,.cat3{
+    box-shadow: 3px 3px 15px rgba(73, 63, 63, 0.199);
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.cat1 h1{
+    
+    
+}
+.cat2{
+   
+}
+.cat3{
+    
+
+}
+.cat1, .cat2, .cat3 img{
+    width: 100%;
+}
+
